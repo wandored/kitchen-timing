@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# SFTP credentials
+/etc/toast_config.json
+
+# Generated files
+/downloads/
+
